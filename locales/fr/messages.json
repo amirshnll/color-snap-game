@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Déclic Couleur"
+    },
+    "appNamePrimary": {
+        "message": "Déclic"
+    },
+    "appNameAccent": {
+        "message": "Couleur"
+    },
+    "tagline": {
+        "message": "L'ENCRE, PAS LE MOT"
+    },
+    "ready": {
+        "message": "Prêt à jouer ?"
+    },
+    "instruction": {
+        "message": "Choisissez la couleur de l'encre, pas le sens du mot."
+    },
+    "classic": {
+        "message": "Classique"
+    },
+    "classicDetail": {
+        "message": "30 secondes"
+    },
+    "endless": {
+        "message": "Infini"
+    },
+    "endlessDetail": {
+        "message": "Battez votre record"
+    },
+    "start": {
+        "message": "Jouer"
+    },
+    "best": {
+        "message": "Meilleur"
+    },
+    "score": {
+        "message": "Score"
+    },
+    "combo": {
+        "message": "Série"
+    },
+    "time": {
+        "message": "Temps"
+    },
+    "identifyInk": {
+        "message": "IDENTIFIEZ L'ENCRE"
+    },
+    "chooseInk": {
+        "message": "Choisissez la couleur d'encre"
+    },
+    "correctFeedback": {
+        "message": "Bien joué !"
+    },
+    "wrongFeedback": {
+        "message": "C'était"
+    },
+    "roundComplete": {
+        "message": "MANCHE TERMINÉE"
+    },
+    "correct": {
+        "message": "Correct"
+    },
+    "accuracy": {
+        "message": "Précision"
+    },
+    "averageTime": {
+        "message": "Temps moy."
+    },
+    "playAgain": {
+        "message": "Rejouer"
+    },
+    "home": {
+        "message": "Accueil"
+    },
+    "settings": {
+        "message": "Réglages"
+    },
+    "language": {
+        "message": "Langue"
+    },
+    "sound": {
+        "message": "Son"
+    },
+    "soundDetail": {
+        "message": "Sons de réponse"
+    },
+    "accessibility": {
+        "message": "Accessibilité couleur"
+    },
+    "accessDetail": {
+        "message": "Afficher noms et symboles"
+    },
+    "offline": {
+        "message": "Fonctionne entièrement hors ligne"
+    },
+    "newBest": {
+        "message": "Nouveau record !"
+    },
+    "roundDone": {
+        "message": "Beaux réflexes !"
+    },
+    "color.red": {
+        "message": "Rouge"
+    },
+    "color.blue": {
+        "message": "Bleu"
+    },
+    "color.green": {
+        "message": "Vert"
+    },
+    "color.yellow": {
+        "message": "Jaune"
+    },
+    "color.purple": {
+        "message": "Violet"
+    },
+    "color.pink": {
+        "message": "Rose"
+    },
+    "color.orange": {
+        "message": "Orange"
+    },
+    "color.teal": {
+        "message": "Turquoise"
+    },
+    "donate": {
+        "message": "Faire un don"
+    },
+    "version": {
+        "message": "Version 1.0.0"
+    },
+    "wrong": {
+        "message": "Incorrectes"
+    },
+    "timeRemaining": {
+        "message": "Temps restant"
+    },
+    "colorAnswers": {
+        "message": "Choix de couleurs"
+    },
+    "back": {
+        "message": "Retour"
+    },
+    "secondsUnit": {
+        "message": "s"
+    }
+}

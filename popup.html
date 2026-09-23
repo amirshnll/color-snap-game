@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Color Snap</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <main class="app" aria-live="polite">
+    <header>
+      <div>
+        <p class="eyebrow" data-i18n="tagline">INK, NOT WORD</p>
+        <h1><span data-i18n="appNamePrimary" style="color:var(--ink)">Color</span> <span
+            data-i18n="appNameAccent">Snap</span></h1>
+      </div><button id="settingsButton" class="icon-button" aria-label="Settings" title="Settings">⚙</button>
+    </header>
+    <section id="setupView" class="view">
+      <div class="hero">
+        <div class="hero-mark">◉</div>
+        <h2 data-i18n="ready">Ready to snap?</h2>
+        <p data-i18n="instruction">Choose the color of the ink — not what the word says.</p>
+      </div>
+      <div class="mode-grid"><button class="mode selected" data-mode="classic"><strong
+            data-i18n="classic">Classic</strong><small data-i18n="classicDetail">30 seconds</small></button><button
+          class="mode" data-mode="endless"><strong data-i18n="endless">Endless</strong><small
+            data-i18n="endlessDetail">Go for your best</small></button></div>
+      <button id="startButton" class="primary" data-i18n="start">Start game</button>
+      <p class="best-line"><span data-i18n="best">Best</span> <strong id="bestScore">0</strong></p>
+    </section>
+    <section id="gameView" class="view hidden">
+      <div class="score-row">
+        <div><span data-i18n="score">Score</span><strong id="score">0</strong></div>
+        <div class="combo"><span data-i18n="combo">Combo</span><strong id="combo">×0</strong></div>
+        <div><span data-i18n="time">Time</span><strong id="timer">30.0</strong></div>
+      </div>
+      <div class="progress" data-i18n-aria="timeRemaining" aria-label="Time remaining"><i id="progressBar"></i></div>
+      <div id="promptCard" class="prompt-card"><span class="prompt-label" data-i18n="identifyInk">IDENTIFY THE
+          INK</span>
+        <div id="word" class="word">BLUE</div>
+        <p id="assistLabel" class="assist-label"></p>
+      </div>
+      <div id="answers" class="answers" role="group" data-i18n-aria="colorAnswers" aria-label="Color answers"></div>
+      <p id="feedback" class="feedback" role="status"></p>
+      <button id="endEndlessButton" class="end-game hidden">Finish game</button>
+    </section>
+    <section id="resultView" class="view hidden">
+      <div class="result-icon">✦</div>
+      <p class="eyebrow" data-i18n="roundComplete">ROUND COMPLETE</p>
+      <h2 id="resultTitle">Great reflexes!</h2>
+      <div class="final-score"><span data-i18n="score">Score</span><strong id="finalScore">0</strong></div>
+      <div class="stats">
+        <div><span data-i18n="correct">Correct</span><b id="correct">0</b></div>
+        <div><span data-i18n="wrong">Wrong</span><b id="wrong">0</b></div>
+        <div><span data-i18n="accuracy">Accuracy</span><b id="accuracy">0%</b></div>
+        <div><span data-i18n="averageTime">Avg. time</span><b id="averageTime">—</b></div>
+      </div><button id="againButton" class="primary" data-i18n="playAgain">Play again</button><button id="homeButton"
+        class="secondary" data-i18n="home">Home</button>
+    </section>
+    <section id="settingsView" class="view settings hidden">
+      <div class="settings-head"><button id="closeSettings" class="back" data-i18n-aria="back"
+          aria-label="Back">←</button>
+        <h2 data-i18n="settings">Settings</h2>
+      </div><label><span data-i18n="language">Language</span><select id="language">
+          <option value="en">English</option>
+          <option value="fa">فارسی</option>
+          <option value="ar">العربية</option>
+          <option value="es">Español</option>
+          <option value="fr">Français</option>
+          <option value="de">Deutsch</option>
+          <option value="tr">Türkçe</option>
+          <option value="sv">Svenska</option>
+          <option value="et">Eesti</option>
+          <option value="ja">日本語</option>
+          <option value="ko">한국어</option>
+          <option value="zh">中文</option>
+          <option value="it">Italiano</option>
+        </select></label><label class="toggle"><span><b data-i18n="sound">Sound</b><small
+            data-i18n="soundDetail">Feedback tones</small></span><input id="sound" type="checkbox"
+          role="switch"></label><label class="toggle"><span><b data-i18n="accessibility">Color accessibility</b><small
+            data-i18n="accessDetail">Show color names and symbols</small></span><input id="accessibility"
+          type="checkbox" role="switch"></label>
+      <div class="about"><b data-i18n="appName">Color Snap</b><span data-i18n="offline">Works entirely offline</span>
+      </div>
+    </section>
+    <div class="extension-meta"><a href="https://ashokri.com/donate/" target="_blank" rel="noopener noreferrer"
+        data-i18n="donate">Donate</a><span aria-hidden="true">-</span><span data-i18n="version">Version 1.0.0</span>
+    </div>
+  </main>
+  <script src="js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "カラースナップ"
+    },
+    "appNamePrimary": {
+        "message": "カラー"
+    },
+    "appNameAccent": {
+        "message": "スナップ"
+    },
+    "tagline": {
+        "message": "文字ではなくインク"
+    },
+    "ready": {
+        "message": "準備はいい？"
+    },
+    "instruction": {
+        "message": "単語の意味ではなく、インクの色を選んでください。"
+    },
+    "classic": {
+        "message": "クラシック"
+    },
+    "classicDetail": {
+        "message": "30秒"
+    },
+    "endless": {
+        "message": "エンドレス"
+    },
+    "endlessDetail": {
+        "message": "自己ベストを目指そう"
+    },
+    "start": {
+        "message": "ゲーム開始"
+    },
+    "best": {
+        "message": "ベスト"
+    },
+    "score": {
+        "message": "スコア"
+    },
+    "combo": {
+        "message": "コンボ"
+    },
+    "time": {
+        "message": "時間"
+    },
+    "identifyInk": {
+        "message": "インクの色を見分けよう"
+    },
+    "chooseInk": {
+        "message": "インクの色を選ぶ"
+    },
+    "correctFeedback": {
+        "message": "いいね！"
+    },
+    "wrongFeedback": {
+        "message": "正解は"
+    },
+    "roundComplete": {
+        "message": "ラウンド完了"
+    },
+    "correct": {
+        "message": "正解"
+    },
+    "wrong": {
+        "message": "不正解"
+    },
+    "accuracy": {
+        "message": "正確さ"
+    },
+    "averageTime": {
+        "message": "平均時間"
+    },
+    "playAgain": {
+        "message": "もう一度"
+    },
+    "home": {
+        "message": "ホーム"
+    },
+    "settings": {
+        "message": "設定"
+    },
+    "language": {
+        "message": "言語"
+    },
+    "sound": {
+        "message": "サウンド"
+    },
+    "soundDetail": {
+        "message": "フィードバック音"
+    },
+    "accessibility": {
+        "message": "色のアクセシビリティ"
+    },
+    "accessDetail": {
+        "message": "色名と記号を表示"
+    },
+    "offline": {
+        "message": "完全オフラインで動作"
+    },
+    "newBest": {
+        "message": "自己ベスト更新！"
+    },
+    "roundDone": {
+        "message": "素晴らしい反射神経！"
+    },
+    "color.red": {
+        "message": "赤"
+    },
+    "color.blue": {
+        "message": "青"
+    },
+    "color.green": {
+        "message": "緑"
+    },
+    "color.yellow": {
+        "message": "黄"
+    },
+    "color.purple": {
+        "message": "紫"
+    },
+    "color.pink": {
+        "message": "ピンク"
+    },
+    "color.orange": {
+        "message": "オレンジ"
+    },
+    "color.teal": {
+        "message": "青緑"
+    },
+    "donate": {
+        "message": "寄付"
+    },
+    "version": {
+        "message": "バージョン 1.0.0"
+    },
+    "timeRemaining": {
+        "message": "残り時間"
+    },
+    "colorAnswers": {
+        "message": "色の選択肢"
+    },
+    "back": {
+        "message": "戻る"
+    },
+    "secondsUnit": {
+        "message": "秒"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Color Snap"
+    },
+    "appNamePrimary": {
+        "message": "Color"
+    },
+    "appNameAccent": {
+        "message": "Snap"
+    },
+    "tagline": {
+        "message": "INK, NOT WORD"
+    },
+    "ready": {
+        "message": "Ready to snap?"
+    },
+    "instruction": {
+        "message": "Choose the color of the ink — not what the word says."
+    },
+    "classic": {
+        "message": "Classic"
+    },
+    "classicDetail": {
+        "message": "30 seconds"
+    },
+    "endless": {
+        "message": "Endless"
+    },
+    "endlessDetail": {
+        "message": "Go for your best"
+    },
+    "start": {
+        "message": "Start game"
+    },
+    "best": {
+        "message": "Best"
+    },
+    "score": {
+        "message": "Score"
+    },
+    "combo": {
+        "message": "Combo"
+    },
+    "time": {
+        "message": "Time"
+    },
+    "identifyInk": {
+        "message": "IDENTIFY THE INK"
+    },
+    "chooseInk": {
+        "message": "Choose the ink color"
+    },
+    "correctFeedback": {
+        "message": "Nice snap!"
+    },
+    "wrongFeedback": {
+        "message": "It was"
+    },
+    "roundComplete": {
+        "message": "ROUND COMPLETE"
+    },
+    "correct": {
+        "message": "Correct"
+    },
+    "wrong": {
+        "message": "Wrong"
+    },
+    "accuracy": {
+        "message": "Accuracy"
+    },
+    "averageTime": {
+        "message": "Avg. time"
+    },
+    "playAgain": {
+        "message": "Play again"
+    },
+    "home": {
+        "message": "Home"
+    },
+    "settings": {
+        "message": "Settings"
+    },
+    "language": {
+        "message": "Language"
+    },
+    "sound": {
+        "message": "Sound"
+    },
+    "soundDetail": {
+        "message": "Feedback tones"
+    },
+    "accessibility": {
+        "message": "Color accessibility"
+    },
+    "accessDetail": {
+        "message": "Show color names and symbols"
+    },
+    "offline": {
+        "message": "Works entirely offline"
+    },
+    "newBest": {
+        "message": "New best score!"
+    },
+    "roundDone": {
+        "message": "Great reflexes!"
+    },
+    "color.red": {
+        "message": "Red"
+    },
+    "color.blue": {
+        "message": "Blue"
+    },
+    "color.green": {
+        "message": "Green"
+    },
+    "color.yellow": {
+        "message": "Yellow"
+    },
+    "color.purple": {
+        "message": "Purple"
+    },
+    "color.pink": {
+        "message": "Pink"
+    },
+    "color.orange": {
+        "message": "Orange"
+    },
+    "color.teal": {
+        "message": "Teal"
+    },
+    "donate": {
+        "message": "Donate"
+    },
+    "version": {
+        "message": "Version 1.0.0"
+    },
+    "timeRemaining": {
+        "message": "Time remaining"
+    },
+    "colorAnswers": {
+        "message": "Color answers"
+    },
+    "back": {
+        "message": "Back"
+    },
+    "secondsUnit": {
+        "message": "s"
+    }
+}

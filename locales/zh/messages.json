@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "颜色快拍"
+    },
+    "appNamePrimary": {
+        "message": "颜色"
+    },
+    "appNameAccent": {
+        "message": "快拍"
+    },
+    "tagline": {
+        "message": "认墨色，不认字"
+    },
+    "ready": {
+        "message": "准备好了吗？"
+    },
+    "instruction": {
+        "message": "选择墨水的颜色，而不是词语所表达的颜色。"
+    },
+    "classic": {
+        "message": "经典"
+    },
+    "classicDetail": {
+        "message": "30 秒"
+    },
+    "endless": {
+        "message": "无尽"
+    },
+    "endlessDetail": {
+        "message": "挑战你的最佳成绩"
+    },
+    "start": {
+        "message": "开始游戏"
+    },
+    "best": {
+        "message": "最佳"
+    },
+    "score": {
+        "message": "得分"
+    },
+    "combo": {
+        "message": "连击"
+    },
+    "time": {
+        "message": "时间"
+    },
+    "identifyInk": {
+        "message": "识别墨水颜色"
+    },
+    "chooseInk": {
+        "message": "选择墨水颜色"
+    },
+    "correctFeedback": {
+        "message": "做得好！"
+    },
+    "wrongFeedback": {
+        "message": "答案是"
+    },
+    "roundComplete": {
+        "message": "本轮完成"
+    },
+    "correct": {
+        "message": "正确"
+    },
+    "wrong": {
+        "message": "错误"
+    },
+    "accuracy": {
+        "message": "准确率"
+    },
+    "averageTime": {
+        "message": "平均时间"
+    },
+    "playAgain": {
+        "message": "再玩一次"
+    },
+    "home": {
+        "message": "主页"
+    },
+    "settings": {
+        "message": "设置"
+    },
+    "language": {
+        "message": "语言"
+    },
+    "sound": {
+        "message": "声音"
+    },
+    "soundDetail": {
+        "message": "反馈音效"
+    },
+    "accessibility": {
+        "message": "颜色辅助功能"
+    },
+    "accessDetail": {
+        "message": "显示颜色名称和符号"
+    },
+    "offline": {
+        "message": "完全支持离线使用"
+    },
+    "newBest": {
+        "message": "新最佳成绩！"
+    },
+    "roundDone": {
+        "message": "反应真快！"
+    },
+    "color.red": {
+        "message": "红色"
+    },
+    "color.blue": {
+        "message": "蓝色"
+    },
+    "color.green": {
+        "message": "绿色"
+    },
+    "color.yellow": {
+        "message": "黄色"
+    },
+    "color.purple": {
+        "message": "紫色"
+    },
+    "color.pink": {
+        "message": "粉色"
+    },
+    "color.orange": {
+        "message": "橙色"
+    },
+    "color.teal": {
+        "message": "青绿色"
+    },
+    "donate": {
+        "message": "捐赠"
+    },
+    "version": {
+        "message": "版本 1.0.0"
+    },
+    "timeRemaining": {
+        "message": "剩余时间"
+    },
+    "colorAnswers": {
+        "message": "颜色选项"
+    },
+    "back": {
+        "message": "返回"
+    },
+    "secondsUnit": {
+        "message": "秒"
+    }
+}

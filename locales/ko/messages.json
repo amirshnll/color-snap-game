@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "컬러 스냅"
+    },
+    "appNamePrimary": {
+        "message": "컬러"
+    },
+    "appNameAccent": {
+        "message": "스냅"
+    },
+    "tagline": {
+        "message": "단어 말고 잉크"
+    },
+    "ready": {
+        "message": "준비됐나요?"
+    },
+    "instruction": {
+        "message": "단어의 뜻이 아니라 잉크의 색을 고르세요."
+    },
+    "classic": {
+        "message": "클래식"
+    },
+    "classicDetail": {
+        "message": "30초"
+    },
+    "endless": {
+        "message": "무한"
+    },
+    "endlessDetail": {
+        "message": "최고 기록에 도전"
+    },
+    "start": {
+        "message": "게임 시작"
+    },
+    "best": {
+        "message": "최고"
+    },
+    "score": {
+        "message": "점수"
+    },
+    "combo": {
+        "message": "콤보"
+    },
+    "time": {
+        "message": "시간"
+    },
+    "identifyInk": {
+        "message": "잉크 색 식별"
+    },
+    "chooseInk": {
+        "message": "잉크 색을 선택하세요"
+    },
+    "correctFeedback": {
+        "message": "좋아요!"
+    },
+    "wrongFeedback": {
+        "message": "정답은"
+    },
+    "roundComplete": {
+        "message": "라운드 완료"
+    },
+    "correct": {
+        "message": "정답"
+    },
+    "wrong": {
+        "message": "오답"
+    },
+    "accuracy": {
+        "message": "정확도"
+    },
+    "averageTime": {
+        "message": "평균 시간"
+    },
+    "playAgain": {
+        "message": "다시 하기"
+    },
+    "home": {
+        "message": "홈"
+    },
+    "settings": {
+        "message": "설정"
+    },
+    "language": {
+        "message": "언어"
+    },
+    "sound": {
+        "message": "소리"
+    },
+    "soundDetail": {
+        "message": "피드백 소리"
+    },
+    "accessibility": {
+        "message": "색상 접근성"
+    },
+    "accessDetail": {
+        "message": "색상 이름과 기호 표시"
+    },
+    "offline": {
+        "message": "완전히 오프라인에서 작동"
+    },
+    "newBest": {
+        "message": "새 최고 기록!"
+    },
+    "roundDone": {
+        "message": "훌륭한 반사신경!"
+    },
+    "color.red": {
+        "message": "빨강"
+    },
+    "color.blue": {
+        "message": "파랑"
+    },
+    "color.green": {
+        "message": "초록"
+    },
+    "color.yellow": {
+        "message": "노랑"
+    },
+    "color.purple": {
+        "message": "보라"
+    },
+    "color.pink": {
+        "message": "분홍"
+    },
+    "color.orange": {
+        "message": "주황"
+    },
+    "color.teal": {
+        "message": "청록"
+    },
+    "donate": {
+        "message": "후원"
+    },
+    "version": {
+        "message": "버전 1.0.0"
+    },
+    "timeRemaining": {
+        "message": "남은 시간"
+    },
+    "colorAnswers": {
+        "message": "색상 선택지"
+    },
+    "back": {
+        "message": "뒤로"
+    },
+    "secondsUnit": {
+        "message": "초"
+    }
+}

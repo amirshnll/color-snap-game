@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Farbschnapp"
+    },
+    "appNamePrimary": {
+        "message": "Farb"
+    },
+    "appNameAccent": {
+        "message": "schnapp"
+    },
+    "tagline": {
+        "message": "TINTE, NICHT WORT"
+    },
+    "ready": {
+        "message": "Bereit?"
+    },
+    "instruction": {
+        "message": "Wähle die Farbe der Tinte, nicht die Bedeutung des Wortes."
+    },
+    "classic": {
+        "message": "Klassisch"
+    },
+    "classicDetail": {
+        "message": "30 Sekunden"
+    },
+    "endless": {
+        "message": "Endlos"
+    },
+    "endlessDetail": {
+        "message": "Stell deinen Rekord auf"
+    },
+    "start": {
+        "message": "Spiel starten"
+    },
+    "best": {
+        "message": "Bestwert"
+    },
+    "score": {
+        "message": "Punkte"
+    },
+    "combo": {
+        "message": "Serie"
+    },
+    "time": {
+        "message": "Zeit"
+    },
+    "identifyInk": {
+        "message": "TINTE ERKENNEN"
+    },
+    "chooseInk": {
+        "message": "Wähle die Tintenfarbe"
+    },
+    "correctFeedback": {
+        "message": "Prima!"
+    },
+    "wrongFeedback": {
+        "message": "Es war"
+    },
+    "roundComplete": {
+        "message": "RUNDE BEENDET"
+    },
+    "correct": {
+        "message": "Richtig"
+    },
+    "accuracy": {
+        "message": "Genauigkeit"
+    },
+    "averageTime": {
+        "message": "Ø Zeit"
+    },
+    "playAgain": {
+        "message": "Nochmal spielen"
+    },
+    "home": {
+        "message": "Startseite"
+    },
+    "settings": {
+        "message": "Einstellungen"
+    },
+    "language": {
+        "message": "Sprache"
+    },
+    "sound": {
+        "message": "Ton"
+    },
+    "soundDetail": {
+        "message": "Rückmeldetöne"
+    },
+    "accessibility": {
+        "message": "Farbzugänglichkeit"
+    },
+    "accessDetail": {
+        "message": "Farbnamen und Symbole zeigen"
+    },
+    "offline": {
+        "message": "Funktioniert vollständig offline"
+    },
+    "newBest": {
+        "message": "Neuer Bestwert!"
+    },
+    "roundDone": {
+        "message": "Tolle Reflexe!"
+    },
+    "color.red": {
+        "message": "Rot"
+    },
+    "color.blue": {
+        "message": "Blau"
+    },
+    "color.green": {
+        "message": "Grün"
+    },
+    "color.yellow": {
+        "message": "Gelb"
+    },
+    "color.purple": {
+        "message": "Lila"
+    },
+    "color.pink": {
+        "message": "Rosa"
+    },
+    "color.orange": {
+        "message": "Orange"
+    },
+    "color.teal": {
+        "message": "Türkis"
+    },
+    "donate": {
+        "message": "Spenden"
+    },
+    "version": {
+        "message": "Version 1.0.0"
+    },
+    "wrong": {
+        "message": "Falsch"
+    },
+    "timeRemaining": {
+        "message": "Verbleibende Zeit"
+    },
+    "colorAnswers": {
+        "message": "Farbauswahl"
+    },
+    "back": {
+        "message": "Zurück"
+    },
+    "secondsUnit": {
+        "message": "Sek."
+    }
+}

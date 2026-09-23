@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Captura Color"
+    },
+    "appNamePrimary": {
+        "message": "Captura"
+    },
+    "appNameAccent": {
+        "message": "Color"
+    },
+    "tagline": {
+        "message": "TINTA, NO PALABRA"
+    },
+    "ready": {
+        "message": "¿Listo para atrapar?"
+    },
+    "instruction": {
+        "message": "Elige el color de la tinta, no lo que dice la palabra."
+    },
+    "classic": {
+        "message": "Clásico"
+    },
+    "classicDetail": {
+        "message": "30 segundos"
+    },
+    "endless": {
+        "message": "Infinito"
+    },
+    "endlessDetail": {
+        "message": "Supera tu marca"
+    },
+    "start": {
+        "message": "Empezar"
+    },
+    "best": {
+        "message": "Mejor"
+    },
+    "score": {
+        "message": "Puntos"
+    },
+    "combo": {
+        "message": "Racha"
+    },
+    "time": {
+        "message": "Tiempo"
+    },
+    "identifyInk": {
+        "message": "IDENTIFICA LA TINTA"
+    },
+    "chooseInk": {
+        "message": "Elige el color de tinta"
+    },
+    "correctFeedback": {
+        "message": "¡Bien!"
+    },
+    "wrongFeedback": {
+        "message": "Era"
+    },
+    "roundComplete": {
+        "message": "RONDA COMPLETA"
+    },
+    "correct": {
+        "message": "Aciertos"
+    },
+    "accuracy": {
+        "message": "Precisión"
+    },
+    "averageTime": {
+        "message": "Tiempo medio"
+    },
+    "playAgain": {
+        "message": "Jugar otra vez"
+    },
+    "home": {
+        "message": "Inicio"
+    },
+    "settings": {
+        "message": "Ajustes"
+    },
+    "language": {
+        "message": "Idioma"
+    },
+    "sound": {
+        "message": "Sonido"
+    },
+    "soundDetail": {
+        "message": "Tonos de respuesta"
+    },
+    "accessibility": {
+        "message": "Accesibilidad de color"
+    },
+    "accessDetail": {
+        "message": "Mostrar nombres y símbolos"
+    },
+    "offline": {
+        "message": "Funciona sin conexión"
+    },
+    "newBest": {
+        "message": "¡Nueva marca!"
+    },
+    "roundDone": {
+        "message": "¡Gran reflejo!"
+    },
+    "color.red": {
+        "message": "Rojo"
+    },
+    "color.blue": {
+        "message": "Azul"
+    },
+    "color.green": {
+        "message": "Verde"
+    },
+    "color.yellow": {
+        "message": "Amarillo"
+    },
+    "color.purple": {
+        "message": "Morado"
+    },
+    "color.pink": {
+        "message": "Rosa"
+    },
+    "color.orange": {
+        "message": "Naranja"
+    },
+    "color.teal": {
+        "message": "Turquesa"
+    },
+    "donate": {
+        "message": "Donar"
+    },
+    "version": {
+        "message": "Versión 1.0.0"
+    },
+    "wrong": {
+        "message": "Incorrectas"
+    },
+    "timeRemaining": {
+        "message": "Tiempo restante"
+    },
+    "colorAnswers": {
+        "message": "Opciones de color"
+    },
+    "back": {
+        "message": "Volver"
+    },
+    "secondsUnit": {
+        "message": "s"
+    }
+}

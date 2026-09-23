@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "شکار رنگ"
+    },
+    "appNamePrimary": {
+        "message": "شکار"
+    },
+    "appNameAccent": {
+        "message": "رنگ"
+    },
+    "tagline": {
+        "message": "رنگ جوهر، نه کلمه"
+    },
+    "ready": {
+        "message": "آماده‌ای؟"
+    },
+    "instruction": {
+        "message": "رنگ جوهر را انتخاب کن، نه معنی کلمه را."
+    },
+    "classic": {
+        "message": "کلاسیک"
+    },
+    "classicDetail": {
+        "message": "۳۰ ثانیه"
+    },
+    "endless": {
+        "message": "بی‌پایان"
+    },
+    "endlessDetail": {
+        "message": "رکوردت را بزن"
+    },
+    "start": {
+        "message": "شروع بازی"
+    },
+    "best": {
+        "message": "بهترین"
+    },
+    "score": {
+        "message": "امتیاز"
+    },
+    "combo": {
+        "message": "زنجیره"
+    },
+    "time": {
+        "message": "زمان"
+    },
+    "identifyInk": {
+        "message": "رنگ جوهر را پیدا کن"
+    },
+    "chooseInk": {
+        "message": "رنگ جوهر را انتخاب کن"
+    },
+    "correctFeedback": {
+        "message": "آفرین!"
+    },
+    "wrongFeedback": {
+        "message": "پاسخ درست"
+    },
+    "roundComplete": {
+        "message": "پایان دور"
+    },
+    "correct": {
+        "message": "درست"
+    },
+    "accuracy": {
+        "message": "دقت"
+    },
+    "averageTime": {
+        "message": "میانگین زمان"
+    },
+    "playAgain": {
+        "message": "دوباره بازی کن"
+    },
+    "home": {
+        "message": "خانه"
+    },
+    "settings": {
+        "message": "تنظیمات"
+    },
+    "language": {
+        "message": "زبان"
+    },
+    "sound": {
+        "message": "صدا"
+    },
+    "soundDetail": {
+        "message": "صدای بازخورد"
+    },
+    "accessibility": {
+        "message": "دسترس‌پذیری رنگ"
+    },
+    "accessDetail": {
+        "message": "نام و نماد رنگ‌ها را نشان بده"
+    },
+    "offline": {
+        "message": "کاملاً آفلاین کار می‌کند"
+    },
+    "newBest": {
+        "message": "رکورد جدید!"
+    },
+    "roundDone": {
+        "message": "واکنش عالی!"
+    },
+    "color.red": {
+        "message": "قرمز"
+    },
+    "color.blue": {
+        "message": "آبی"
+    },
+    "color.green": {
+        "message": "سبز"
+    },
+    "color.yellow": {
+        "message": "زرد"
+    },
+    "color.purple": {
+        "message": "بنفش"
+    },
+    "color.pink": {
+        "message": "صورتی"
+    },
+    "color.orange": {
+        "message": "نارنجی"
+    },
+    "color.teal": {
+        "message": "فیروزه‌ای"
+    },
+    "donate": {
+        "message": "حمایت مالی"
+    },
+    "version": {
+        "message": "نسخه ۱.۰.۰"
+    },
+    "wrong": {
+        "message": "نادرست"
+    },
+    "timeRemaining": {
+        "message": "زمان باقی‌مانده"
+    },
+    "colorAnswers": {
+        "message": "گزینه‌های رنگ"
+    },
+    "back": {
+        "message": "بازگشت"
+    },
+    "secondsUnit": {
+        "message": "ثانیه"
+    }
+}

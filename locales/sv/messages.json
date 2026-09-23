@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Färgsnapp"
+    },
+    "appNamePrimary": {
+        "message": "Färg"
+    },
+    "appNameAccent": {
+        "message": "snapp"
+    },
+    "tagline": {
+        "message": "BLÄCK, INTE ORD"
+    },
+    "ready": {
+        "message": "Redo att snappa?"
+    },
+    "instruction": {
+        "message": "Välj bläckets färg — inte vad ordet säger."
+    },
+    "classic": {
+        "message": "Klassiskt"
+    },
+    "classicDetail": {
+        "message": "30 sekunder"
+    },
+    "endless": {
+        "message": "Oändligt"
+    },
+    "endlessDetail": {
+        "message": "Slå ditt rekord"
+    },
+    "start": {
+        "message": "Starta spel"
+    },
+    "best": {
+        "message": "Bäst"
+    },
+    "score": {
+        "message": "Poäng"
+    },
+    "combo": {
+        "message": "Kombination"
+    },
+    "time": {
+        "message": "Tid"
+    },
+    "identifyInk": {
+        "message": "IDENTIFIERA BLÄCKET"
+    },
+    "chooseInk": {
+        "message": "Välj bläckfärgen"
+    },
+    "correctFeedback": {
+        "message": "Snyggt!"
+    },
+    "wrongFeedback": {
+        "message": "Det var"
+    },
+    "roundComplete": {
+        "message": "OMGÅNGEN KLAR"
+    },
+    "correct": {
+        "message": "Rätt"
+    },
+    "wrong": {
+        "message": "Fel"
+    },
+    "accuracy": {
+        "message": "Träffsäkerhet"
+    },
+    "averageTime": {
+        "message": "Snittid"
+    },
+    "playAgain": {
+        "message": "Spela igen"
+    },
+    "home": {
+        "message": "Hem"
+    },
+    "settings": {
+        "message": "Inställningar"
+    },
+    "language": {
+        "message": "Språk"
+    },
+    "sound": {
+        "message": "Ljud"
+    },
+    "soundDetail": {
+        "message": "Ljudsignaler"
+    },
+    "accessibility": {
+        "message": "Färgtillgänglighet"
+    },
+    "accessDetail": {
+        "message": "Visa färgnamn och symboler"
+    },
+    "offline": {
+        "message": "Fungerar helt offline"
+    },
+    "newBest": {
+        "message": "Nytt rekord!"
+    },
+    "roundDone": {
+        "message": "Snabba reflexer!"
+    },
+    "color.red": {
+        "message": "Röd"
+    },
+    "color.blue": {
+        "message": "Blå"
+    },
+    "color.green": {
+        "message": "Grön"
+    },
+    "color.yellow": {
+        "message": "Gul"
+    },
+    "color.purple": {
+        "message": "Lila"
+    },
+    "color.pink": {
+        "message": "Rosa"
+    },
+    "color.orange": {
+        "message": "Orange"
+    },
+    "color.teal": {
+        "message": "Turkos"
+    },
+    "donate": {
+        "message": "Donera"
+    },
+    "version": {
+        "message": "Version 1.0.0"
+    },
+    "timeRemaining": {
+        "message": "Återstående tid"
+    },
+    "colorAnswers": {
+        "message": "Färgalternativ"
+    },
+    "back": {
+        "message": "Tillbaka"
+    },
+    "secondsUnit": {
+        "message": "s"
+    }
+}

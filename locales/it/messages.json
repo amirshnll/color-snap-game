@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Scatto Colore"
+    },
+    "appNamePrimary": {
+        "message": "Scatto"
+    },
+    "appNameAccent": {
+        "message": "Colore"
+    },
+    "tagline": {
+        "message": "INCHIOSTRO, NON PAROLA"
+    },
+    "ready": {
+        "message": "Pronto a scattare?"
+    },
+    "instruction": {
+        "message": "Scegli il colore dell'inchiostro, non quello indicato dalla parola."
+    },
+    "classic": {
+        "message": "Classica"
+    },
+    "classicDetail": {
+        "message": "30 secondi"
+    },
+    "endless": {
+        "message": "Infinita"
+    },
+    "endlessDetail": {
+        "message": "Punta al tuo record"
+    },
+    "start": {
+        "message": "Inizia il gioco"
+    },
+    "best": {
+        "message": "Record"
+    },
+    "score": {
+        "message": "Punteggio"
+    },
+    "combo": {
+        "message": "Combo"
+    },
+    "time": {
+        "message": "Tempo"
+    },
+    "identifyInk": {
+        "message": "IDENTIFICA L'INCHIOSTRO"
+    },
+    "chooseInk": {
+        "message": "Scegli il colore dell'inchiostro"
+    },
+    "correctFeedback": {
+        "message": "Ottimo!"
+    },
+    "wrongFeedback": {
+        "message": "Era"
+    },
+    "roundComplete": {
+        "message": "TURNO COMPLETATO"
+    },
+    "correct": {
+        "message": "Corrette"
+    },
+    "wrong": {
+        "message": "Errate"
+    },
+    "accuracy": {
+        "message": "Precisione"
+    },
+    "averageTime": {
+        "message": "Tempo medio"
+    },
+    "playAgain": {
+        "message": "Gioca ancora"
+    },
+    "home": {
+        "message": "Home"
+    },
+    "settings": {
+        "message": "Impostazioni"
+    },
+    "language": {
+        "message": "Lingua"
+    },
+    "sound": {
+        "message": "Suono"
+    },
+    "soundDetail": {
+        "message": "Suoni di risposta"
+    },
+    "accessibility": {
+        "message": "Accessibilità dei colori"
+    },
+    "accessDetail": {
+        "message": "Mostra nomi e simboli dei colori"
+    },
+    "offline": {
+        "message": "Funziona completamente offline"
+    },
+    "newBest": {
+        "message": "Nuovo record!"
+    },
+    "roundDone": {
+        "message": "Riflessi fantastici!"
+    },
+    "color.red": {
+        "message": "Rosso"
+    },
+    "color.blue": {
+        "message": "Blu"
+    },
+    "color.green": {
+        "message": "Verde"
+    },
+    "color.yellow": {
+        "message": "Giallo"
+    },
+    "color.purple": {
+        "message": "Viola"
+    },
+    "color.pink": {
+        "message": "Rosa"
+    },
+    "color.orange": {
+        "message": "Arancione"
+    },
+    "color.teal": {
+        "message": "Verde acqua"
+    },
+    "donate": {
+        "message": "Dona"
+    },
+    "version": {
+        "message": "Versione 1.0.0"
+    },
+    "timeRemaining": {
+        "message": "Tempo rimanente"
+    },
+    "colorAnswers": {
+        "message": "Opzioni di colore"
+    },
+    "back": {
+        "message": "Indietro"
+    },
+    "secondsUnit": {
+        "message": "s"
+    }
+}

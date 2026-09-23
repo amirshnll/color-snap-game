@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Renk Yakala"
+    },
+    "appNamePrimary": {
+        "message": "Renk"
+    },
+    "appNameAccent": {
+        "message": "Yakala"
+    },
+    "tagline": {
+        "message": "MÜREKKEP, KELİME DEĞİL"
+    },
+    "ready": {
+        "message": "Hazır mısın?"
+    },
+    "instruction": {
+        "message": "Kelimenin anlamını değil, mürekkebin rengini seç."
+    },
+    "classic": {
+        "message": "Klasik"
+    },
+    "classicDetail": {
+        "message": "30 saniye"
+    },
+    "endless": {
+        "message": "Sonsuz"
+    },
+    "endlessDetail": {
+        "message": "Rekorunu kır"
+    },
+    "start": {
+        "message": "Oyunu başlat"
+    },
+    "best": {
+        "message": "En iyi"
+    },
+    "score": {
+        "message": "Puan"
+    },
+    "combo": {
+        "message": "Seri"
+    },
+    "time": {
+        "message": "Süre"
+    },
+    "identifyInk": {
+        "message": "MÜREKKEBİ BUL"
+    },
+    "chooseInk": {
+        "message": "Mürekkep rengini seç"
+    },
+    "correctFeedback": {
+        "message": "Harika!"
+    },
+    "wrongFeedback": {
+        "message": "Doğrusu"
+    },
+    "roundComplete": {
+        "message": "TUR TAMAMLANDI"
+    },
+    "correct": {
+        "message": "Doğru"
+    },
+    "accuracy": {
+        "message": "Doğruluk"
+    },
+    "averageTime": {
+        "message": "Ort. süre"
+    },
+    "playAgain": {
+        "message": "Tekrar oyna"
+    },
+    "home": {
+        "message": "Ana sayfa"
+    },
+    "settings": {
+        "message": "Ayarlar"
+    },
+    "language": {
+        "message": "Dil"
+    },
+    "sound": {
+        "message": "Ses"
+    },
+    "soundDetail": {
+        "message": "Geri bildirim sesleri"
+    },
+    "accessibility": {
+        "message": "Renk erişilebilirliği"
+    },
+    "accessDetail": {
+        "message": "Renk adlarını ve simgeleri göster"
+    },
+    "offline": {
+        "message": "Tamamen çevrimdışı çalışır"
+    },
+    "newBest": {
+        "message": "Yeni rekor!"
+    },
+    "roundDone": {
+        "message": "Harika refleksler!"
+    },
+    "color.red": {
+        "message": "Kırmızı"
+    },
+    "color.blue": {
+        "message": "Mavi"
+    },
+    "color.green": {
+        "message": "Yeşil"
+    },
+    "color.yellow": {
+        "message": "Sarı"
+    },
+    "color.purple": {
+        "message": "Mor"
+    },
+    "color.pink": {
+        "message": "Pembe"
+    },
+    "color.orange": {
+        "message": "Turuncu"
+    },
+    "color.teal": {
+        "message": "Turkuaz"
+    },
+    "donate": {
+        "message": "Bağış yap"
+    },
+    "version": {
+        "message": "Sürüm 1.0.0"
+    },
+    "wrong": {
+        "message": "Yanlış"
+    },
+    "timeRemaining": {
+        "message": "Kalan süre"
+    },
+    "colorAnswers": {
+        "message": "Renk seçenekleri"
+    },
+    "back": {
+        "message": "Geri"
+    },
+    "secondsUnit": {
+        "message": "sn"
+    }
+}

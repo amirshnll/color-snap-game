@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "Värvinaps"
+    },
+    "appNamePrimary": {
+        "message": "Värvi"
+    },
+    "appNameAccent": {
+        "message": "naps"
+    },
+    "tagline": {
+        "message": "TINT, MITTE SÕNA"
+    },
+    "ready": {
+        "message": "Kas oled valmis?"
+    },
+    "instruction": {
+        "message": "Vali tindi värv — mitte see, mida sõna ütleb."
+    },
+    "classic": {
+        "message": "Klassikaline"
+    },
+    "classicDetail": {
+        "message": "30 sekundit"
+    },
+    "endless": {
+        "message": "Lõputu"
+    },
+    "endlessDetail": {
+        "message": "Püüa rekordit"
+    },
+    "start": {
+        "message": "Alusta mängu"
+    },
+    "best": {
+        "message": "Parim"
+    },
+    "score": {
+        "message": "Punktid"
+    },
+    "combo": {
+        "message": "Kombinatsioon"
+    },
+    "time": {
+        "message": "Aeg"
+    },
+    "identifyInk": {
+        "message": "TUVASTA TINT"
+    },
+    "chooseInk": {
+        "message": "Vali tindivärv"
+    },
+    "correctFeedback": {
+        "message": "Hästi tehtud!"
+    },
+    "wrongFeedback": {
+        "message": "See oli"
+    },
+    "roundComplete": {
+        "message": "VOOR LÕPPES"
+    },
+    "correct": {
+        "message": "Õige"
+    },
+    "wrong": {
+        "message": "Valed"
+    },
+    "accuracy": {
+        "message": "Täpsus"
+    },
+    "averageTime": {
+        "message": "Keskm. aeg"
+    },
+    "playAgain": {
+        "message": "Mängi uuesti"
+    },
+    "home": {
+        "message": "Avaleht"
+    },
+    "settings": {
+        "message": "Seaded"
+    },
+    "language": {
+        "message": "Keel"
+    },
+    "sound": {
+        "message": "Heli"
+    },
+    "soundDetail": {
+        "message": "Tagasisidehelid"
+    },
+    "accessibility": {
+        "message": "Värvide ligipääsetavus"
+    },
+    "accessDetail": {
+        "message": "Näita värvinimesid ja sümboleid"
+    },
+    "offline": {
+        "message": "Töötab täielikult võrguühenduseta"
+    },
+    "newBest": {
+        "message": "Uus rekord!"
+    },
+    "roundDone": {
+        "message": "Suurepärased refleksid!"
+    },
+    "color.red": {
+        "message": "Punane"
+    },
+    "color.blue": {
+        "message": "Sinine"
+    },
+    "color.green": {
+        "message": "Roheline"
+    },
+    "color.yellow": {
+        "message": "Kollane"
+    },
+    "color.purple": {
+        "message": "Lilla"
+    },
+    "color.pink": {
+        "message": "Roosa"
+    },
+    "color.orange": {
+        "message": "Oranž"
+    },
+    "color.teal": {
+        "message": "Türkiissinine"
+    },
+    "donate": {
+        "message": "Anneta"
+    },
+    "version": {
+        "message": "Versioon 1.0.0"
+    },
+    "timeRemaining": {
+        "message": "Allesjäänud aeg"
+    },
+    "colorAnswers": {
+        "message": "Värvivalikud"
+    },
+    "back": {
+        "message": "Tagasi"
+    },
+    "secondsUnit": {
+        "message": "s"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "appName": {
+        "message": "التقاط اللون"
+    },
+    "appNamePrimary": {
+        "message": "التقاط"
+    },
+    "appNameAccent": {
+        "message": "اللون"
+    },
+    "tagline": {
+        "message": "لون الحبر، لا الكلمة"
+    },
+    "ready": {
+        "message": "هل أنت مستعد؟"
+    },
+    "instruction": {
+        "message": "اختر لون الحبر، لا معنى الكلمة."
+    },
+    "classic": {
+        "message": "كلاسيكي"
+    },
+    "classicDetail": {
+        "message": "30 ثانية"
+    },
+    "endless": {
+        "message": "لا نهائي"
+    },
+    "endlessDetail": {
+        "message": "حطّم رقمك"
+    },
+    "start": {
+        "message": "ابدأ اللعبة"
+    },
+    "best": {
+        "message": "الأفضل"
+    },
+    "score": {
+        "message": "النقاط"
+    },
+    "combo": {
+        "message": "السلسلة"
+    },
+    "time": {
+        "message": "الوقت"
+    },
+    "identifyInk": {
+        "message": "حدّد لون الحبر"
+    },
+    "chooseInk": {
+        "message": "اختر لون الحبر"
+    },
+    "correctFeedback": {
+        "message": "أحسنت!"
+    },
+    "wrongFeedback": {
+        "message": "كانت"
+    },
+    "roundComplete": {
+        "message": "اكتملت الجولة"
+    },
+    "correct": {
+        "message": "صحيح"
+    },
+    "accuracy": {
+        "message": "الدقة"
+    },
+    "averageTime": {
+        "message": "متوسط الوقت"
+    },
+    "playAgain": {
+        "message": "العب مجدداً"
+    },
+    "home": {
+        "message": "الرئيسية"
+    },
+    "settings": {
+        "message": "الإعدادات"
+    },
+    "language": {
+        "message": "اللغة"
+    },
+    "sound": {
+        "message": "الصوت"
+    },
+    "soundDetail": {
+        "message": "نغمات التفاعل"
+    },
+    "accessibility": {
+        "message": "إتاحة الألوان"
+    },
+    "accessDetail": {
+        "message": "إظهار الأسماء والرموز"
+    },
+    "offline": {
+        "message": "يعمل دون اتصال"
+    },
+    "newBest": {
+        "message": "أفضل نتيجة جديدة!"
+    },
+    "roundDone": {
+        "message": "ردود فعل رائعة!"
+    },
+    "color.red": {
+        "message": "أحمر"
+    },
+    "color.blue": {
+        "message": "أزرق"
+    },
+    "color.green": {
+        "message": "أخضر"
+    },
+    "color.yellow": {
+        "message": "أصفر"
+    },
+    "color.purple": {
+        "message": "بنفسجي"
+    },
+    "color.pink": {
+        "message": "وردي"
+    },
+    "color.orange": {
+        "message": "برتقالي"
+    },
+    "color.teal": {
+        "message": "فيروزي"
+    },
+    "donate": {
+        "message": "تبرّع"
+    },
+    "version": {
+        "message": "الإصدار ١.٠.٠"
+    },
+    "wrong": {
+        "message": "خطأ"
+    },
+    "timeRemaining": {
+        "message": "الوقت المتبقي"
+    },
+    "colorAnswers": {
+        "message": "خيارات الألوان"
+    },
+    "back": {
+        "message": "رجوع"
+    },
+    "secondsUnit": {
+        "message": "ث"
+    }
+}
