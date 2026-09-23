@@ -162,10 +162,15 @@ function nextRound() {
   $('feedback').textContent = ''; $('feedback').className = 'feedback'; renderAnswers();
 }
 function renderAnswers() {
-  const answers = $('answers'); answers.innerHTML = '';
+  const answers = $('answers'); answers.replaceChildren();
   [...COLORS].sort(() => Math.random() - .5).forEach(color => {
     const button = document.createElement('button'); button.className = 'answer'; button.dataset.color = color.id;
-    button.innerHTML = `${settings.accessibility ? `<span class="symbol">${color.symbol}</span>` : `<i class="swatch" style="background:${color.cssColor}"></i>`}<span>${t(`color.${color.id}`, color.id)}</span>`;
+    const marker = document.createElement(settings.accessibility ? 'span' : 'i');
+    marker.className = settings.accessibility ? 'symbol' : 'swatch';
+    if (settings.accessibility) marker.textContent = color.symbol;
+    else marker.style.background = color.cssColor;
+    const label = document.createElement('span'); label.textContent = t(`color.${color.id}`, color.id);
+    button.append(marker, label);
     button.setAttribute('aria-label', t(`color.${color.id}`, color.id)); button.addEventListener('click', () => answer(color.id, button)); answers.append(button);
   });
 }
