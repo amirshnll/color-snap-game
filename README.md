@@ -12,6 +12,10 @@ Color Snap is a lightweight, multilingual browser-extension game inspired by the
 
 The extension provides a quick focus and cognitive-control exercise that can be played directly from the browser toolbar without opening a separate website.
 
+## Download
+
+[Chrome](https://chromewebstore.google.com/detail/color-snap/pbjkffgmpemnccdcfljjjajbiimfpngf) - [Firefox](https://addons.mozilla.org/firefox/addon/color-snap/)
+
 ## License
 
 Color Snap is licensed under the MIT License. See the `LICENSE` file for the full license text.
